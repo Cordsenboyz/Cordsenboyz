@@ -5,6 +5,7 @@ My name is Niels, I'm a Full Stack Developer. I enjoy working with anything from
 - 🔭 I’m currently working on a School Internship Project where i'm a project lead. Project is a Website for the School Internship and includes Schemas, Checkin and 
 User management
 - 🌱 I’m currently learning Tests and Continues Integration.
+- 🏢 I'm currently looking for work. Please do contact me on [LinkedIn](https://www.linkedin.com/in/niels-cordsen-978539214)
 
 ## Skills
 | Technology | Rating |
